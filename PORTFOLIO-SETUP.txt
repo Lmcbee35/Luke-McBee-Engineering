@@ -1,0 +1,23 @@
+LUKE McBEE ENGINEERING PORTFOLIO — SETUP NOTES
+
+1. Open index.html in Visual Studio Code.
+2. Replace YOUR_EMAIL_HERE with your professional email.
+3. Replace YOUR_LINKEDIN_URL_HERE with your LinkedIn URL.
+4. Replace YOUR_GITHUB_URL_HERE with your GitHub URL, or remove the GitHub item if you do not use GitHub.
+5. Add your resume as:
+   assets/Luke-McBee-Resume.pdf
+6. Replace the six template images in images/thumbs/ and images/fulls/ with your actual project images.
+7. The next improvement should be creating individual project pages for the strongest 3-5 projects.
+8. The current wording is a strong starting point, but project-specific results, dimensions, calculations, screenshots, and engineering decisions should be added to each project page.
+
+Recommended project-page structure:
+- Project Overview
+- Problem / Need
+- Engineering Objective
+- Design Process
+- CAD / Modeling
+- Analysis / Simulation
+- Results
+- Challenges & Iterations
+- What I Learned
+- Skills / Software Used
